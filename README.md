@@ -105,3 +105,7 @@ if (isPagePresent) {
     // TODO: Take action...
 }
 ```
+
+- ### Result
+
+![Result](result.png)
